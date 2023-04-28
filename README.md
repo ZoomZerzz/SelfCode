@@ -6,7 +6,7 @@
 ## Автор
 
 - [@lanskoy](https://github.com/ZoomZerzz)
-- [@javainteger](https://t.me/javainteger))
+- [@javainteger](https://t.me/javainteger)
 
 ## Подключение бота
 
