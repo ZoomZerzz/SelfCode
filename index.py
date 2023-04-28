@@ -11,8 +11,6 @@ import urllib.parse
 import datetime
 import logging
 import threading
-import win32console
-import win32gui
 import os
 import ctypes
 from random import randint
@@ -31,15 +29,6 @@ client = Client('session', '27447003', '112b12886c7fe281398799ef45d80d1f')
 os.system('cls')
 client.start()
 client.stop()
-
-ctypes.windll.kernel32.SetConsoleTitleW("SelfCode | https://t.me/selfcodetg")
-
-def set_console_size(x, y):
-    hwnd = win32console.GetConsoleWindow()
-    if hwnd:
-        win32gui.MoveWindow(hwnd, x, y, x, y, True)
-        
-set_console_size(600, 200)
 
 response = requests.get('https://www.cbr-xml-daily.ru/daily_json.js')
 data = response.json()
