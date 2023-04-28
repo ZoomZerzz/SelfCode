@@ -26,5 +26,8 @@
   pip install -r requirements.txt
 ```
 ```bash
+  cd SelfCode
+```
+```bash
   python index.py
 ```
