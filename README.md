@@ -23,7 +23,9 @@
   git clone https://github.com/ZoomZerzz/SelfCode
 ```
 ```bash
-  pip install -r requirements.txt
+  pip install googletrans
+  pip install pyrogram
+  pip install random
 ```
 ```bash
   cd SelfCode
