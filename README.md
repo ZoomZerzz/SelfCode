@@ -12,6 +12,8 @@
 
 ## Автор кода
 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javaintrger)
+
 - [@lanskoy](https://github.com/ZoomZerzz)
 - [@javainteger](https://t.me/javainteger)
 
