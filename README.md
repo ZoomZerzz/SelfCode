@@ -58,6 +58,6 @@
   python index.py
 ```
 
+> Ввод номера и подтверждение, что номер верный.
 
-![Image alt](https://github.com/ZoomZerzz/SelfCode/blob/main/IMG_20230629_040417_339.jpg)
-
+![Номер](https://github.com/ZoomZerzz/SelfCode/blob/main/IMG_20230629_040417_339.jpg)
