@@ -44,8 +44,11 @@
   pip install random
 ```
 
-## Подключение бота
+```bash
+  apt upgrade
+```
 
+## Подключение бота
 
 ```bash
   cd SelfCode
