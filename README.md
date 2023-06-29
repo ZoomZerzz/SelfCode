@@ -18,9 +18,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javaintrger)
 
-- [@lanskoy](https://github.com/ZoomZerzz)
-- [@javainteger](https://t.me/javainteger)
-
 ## Подключение бота
 
 Прописывайте данные команды в termux, по очереди.
