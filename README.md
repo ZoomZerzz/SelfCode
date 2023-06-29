@@ -20,7 +20,9 @@
 
 ## Установка Termux
 
-<img src="https://img.shields.io/badge/GooglePlay-white?style=for-the-badge&logo=GooglePlay&logoColor=black"/> 
+<img src="https://img.shields.io/badge/GooglePlay-white?style=for-the-badge&logo=GooglePlay&logoColor=black"/>
+
+> https://play.google.com/store/apps/details?id=com.termux 
 
 ## Подключение бота
 
