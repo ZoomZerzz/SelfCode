@@ -27,6 +27,7 @@ from time import sleep, perf_counter
 stop = False
 client = Client('session', '27447003', '112b12886c7fe281398799ef45d80d1f')
 os.system('cls')
+os.system('clear')
 client.start()
 client.stop()
 
