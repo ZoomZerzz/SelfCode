@@ -7,10 +7,12 @@
 ## Прочая информация
 
 <img src="https://img.shields.io/badge/Команды-gray?style=for-the-badge&logo=HelpDesk&logoColor=white"/> 
-https://telegra.ph/Komandy-04-28
+
+> https://telegra.ph/Komandy-04-28
 
 <img src="https://img.shields.io/badge/Префиксы-gray?style=for-the-badge&logo=HelpScout&logoColor=white"/> 
-[!] [-] [/] [.]
+
+> [!] [-] [/] [.]
 
 ## Автор кода
 
