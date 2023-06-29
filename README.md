@@ -41,6 +41,8 @@
 ```bash
   pip install googletrans
   pip install pyrogram
+  pip install requests
+  pip install aiohttp
 ```
 
 ```bash
