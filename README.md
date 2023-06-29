@@ -41,7 +41,6 @@
 ```bash
   pip install googletrans
   pip install pyrogram
-  pip install random
 ```
 
 ```bash
