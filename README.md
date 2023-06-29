@@ -1,5 +1,16 @@
-
 # SelfCode - Телеграм юзер бот
+
+## Основная библиотека проекта
+
+<https://img.shields.io/badge/pyrogram-blue?style=for-the-badge&logo=Python&logoColor=white />
+
+
+
+
+
+
+
+
 Команды: https://telegra.ph/Komandy-04-28
 
 Префиксы: [!] [-] [/] [.]
