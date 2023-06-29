@@ -6,6 +6,8 @@
 
 ## Прочая информация
 
+<img src="https://img.shields.io/badge/Команды-gray?style=for-the-badge&logo=HelpDesk&logoColor=white"/>
+
 Команды: https://telegra.ph/Komandy-04-28
 Префиксы: [!] [-] [/] [.]
 
