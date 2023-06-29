@@ -24,7 +24,7 @@
 
 > https://play.google.com/store/apps/details?id=com.termux 
 
-## Подключение бота
+## Установка зависимостей
 
 > Прописывайте данные команды в приложение Termux, по очереди.
 
@@ -43,6 +43,10 @@
   pip install pyrogram
   pip install random
 ```
+
+## Подключение бота
+
+
 ```bash
   cd SelfCode
 ```
