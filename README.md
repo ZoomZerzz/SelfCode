@@ -4,16 +4,11 @@
 
 <img src="https://img.shields.io/badge/pyrogram-blue?style=for-the-badge&logo=Python&logoColor=white" />
 
-
-
-
-
-
-
+## Прочая информация
 
 Команды: https://telegra.ph/Komandy-04-28
-
 Префиксы: [!] [-] [/] [.]
+
 ## Автор
 
 - [@lanskoy](https://github.com/ZoomZerzz)
